@@ -1,0 +1,17 @@
+{
+  "name": "PasswordGenerator",
+  "version": "0.0.0",
+  "description": "Password generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ScottRadcliff/PasswordGenerator.git"
+  },
+  "author": "Scott Radcliff",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "756a307d66c7269bc25cd4d781d3de39af9c4127"
+}
