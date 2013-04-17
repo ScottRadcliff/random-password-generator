@@ -1,4 +1,4 @@
-## This is a simple attempt at creating and packing a Node module
+## This is a simple attempt at creating and packaging a Node module
 
 Install
 
