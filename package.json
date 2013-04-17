@@ -1,6 +1,6 @@
 {
   "name": "random-password-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Random Password generator",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ScottRadcliff/PasswordGenerator.git"
+    "url": "git@github.com:ScottRadcliff/random-password-generator.git"
   },
   "author": "Scott Radcliff",
   "license": "BSD",
